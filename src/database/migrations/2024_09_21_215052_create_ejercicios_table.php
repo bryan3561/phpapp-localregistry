@@ -13,6 +13,9 @@ return new class extends Migration
     {
         Schema::create('ejercicios', function (Blueprint $table) {
             $table->id();
+            $table->string('nombre');
+            $table->string('categoria'); // fuerza, cardio, etc.
+            $table->text('descripcion')->nullable();
             $table->timestamps();
         });
     }
