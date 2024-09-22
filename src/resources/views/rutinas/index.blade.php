@@ -2,7 +2,7 @@
 
     <x-container>
         <x-slot name="page_title">
-            {{ __('Panel') }}
+            {{ __('Rutinas') }}
         </x-slot>
 
 
