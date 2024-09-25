@@ -1,5 +1,5 @@
 # Use the official PHP image as the base image
-FROM php:8.1-fpm
+FROM php:8.3-fpm
 
 # Set working directory
 WORKDIR /var/www
@@ -24,7 +24,7 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 COPY . /var/www
 
 # Copy existing application directory permissions
-COPY --chown=www-data:www-data . /var/www
+COPY --chown=www-data:www-data ./ /var/www
 
 # Expose port 9000 and start php-fpm server
 EXPOSE 9000
