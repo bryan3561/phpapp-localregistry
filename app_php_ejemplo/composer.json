@@ -1,0 +1,15 @@
+{
+    "name": "bcontreras/app_php_ejemplo",
+    "autoload": {
+        "psr-4": {
+            "Bcontreras\\AppPhpEjemplo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bryan Contreras",
+            "email": "bcontreras@jockeyclub.com.ar"
+        }
+    ],
+    "require": {}
+}
