@@ -1,0 +1,65 @@
+https://eresfitness.com/ejercicios/
+
+Pectorales:
+  - Press de banca
+  - Press de banca inclinado
+  - Press de banca declinado
+  - Aperturas con mancuernas
+  - Fondos en paralelas
+  - Press de pecho con máquina
+
+Espalda:
+  - Dominadas
+  - Remo con barra
+  - Remo con mancuernas
+  - Remo en máquina
+  - Jalón al pecho en polea
+  - Peso muerto
+
+Bíceps:
+  - Curl con barra
+  - Curl con mancuernas
+  - Curl en banco Scott
+  - Curl concentrado
+  - Curl martillo
+  - Curl en polea baja
+
+Tríceps:
+  - Fondos en paralelas
+  - Extensiones de tríceps en polea
+  - Press francés
+  - Extensión de tríceps con mancuerna
+  - Press cerrado con barra
+  - Patada de tríceps
+
+Abdomen:
+  - Crunch abdominal
+  - Elevación de piernas
+  - Plancha abdominal
+  - Crunch en máquina
+  - Bicicleta en el aire
+  - Elevación de rodillas en paralelas
+
+Hombros:
+  - Press militar
+  - Elevaciones laterales con mancuernas
+  - Elevaciones frontales con mancuernas
+  - Remo al mentón
+  - Press Arnold
+  - Elevaciones laterales en polea
+
+Pantorrillas:
+  - Elevación de talones de pie
+  - Elevación de talones sentado
+  - Elevación de talones en máquina Smith
+  - Saltos con cuerda
+  - Prensa con elevación de talones
+
+Piernas:
+  - Sentadillas con barra
+  - Prensa de piernas
+  - Peso muerto rumano
+  - Zancadas con mancuernas
+  - Sentadilla búlgara
+  - Extensiones de pierna en máquina
+  - Curl de pierna en máquina

@@ -1,0 +1,80 @@
+series:
+  id: Auto Increment
+  repeticiones: Number
+  id ítem de entrenamiento: Number
+  peso: Number
+
+ejercicios:
+  id: Auto Increment
+  nombre: Single line text
+  descripcion: Single line text
+  url_video: Single line text
+  imagenes: Attachment
+
+usuarios:
+  id: Auto Increment
+  correo_electronico: Single line text
+  contraseña: Password
+
+preguntas:
+  id: Auto Increment
+  pregunta: Single line text
+  id_pregunta: Number
+
+cuestionarios:
+  id: Auto Increment
+  nombre: Single line text
+
+categorías_programa_entrenamiento:
+  id: Auto Increment
+  nombre: Single line text
+  descripcion: Single line text
+
+plantillas_programa:
+  id: Auto Increment
+  nombre: Single line text
+  descripcion: Single line text
+  id_usuario: Number
+  id_programa_entrenamiento: Number
+
+ejercicios_coleccion_ejercicios:
+  id: Auto Increment
+  id_coleccion_ejercicios: Number
+  id_ejercicio: Number
+  repeticiones: Number
+
+ítems_entrenamiento:
+  id: Auto Increment
+  id_coleccion_ejercicios: Number
+  id_ejercicio: Number
+  rango: Number
+  id_entrenamiento: Number
+  calificacion: Number
+
+colecciones_ejercicios:
+  id: Auto Increment
+
+roles_usuarios:
+  id: Auto Increment
+  id_usuario: Number
+  id_rol: Number
+
+roles:
+  id: Auto Increment
+  nombre: Single line text
+
+entrenamientos:
+  id: Auto Increment
+  nombre: Single line text
+  descripcion: Single line text
+  id_programa_entrenamiento: Number
+  semana: Number
+  día: Number
+
+programas_entrenamiento:
+  id: Auto Increment
+  nombre: Single line text
+  descripcion: Single line text
+  id_categoría_programa_entrenamiento: Number
+  id_usuario: Number
+  imagenes: Attachment
